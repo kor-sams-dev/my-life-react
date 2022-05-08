@@ -1,0 +1,15 @@
+.footer {
+  padding: 0.4rem;
+}
+
+.title {
+  font-weight: 600;
+  color: #4f5d60;
+}
+
+.contact_item {
+  display: flex;
+  margin-top: 0.4rem;
+  color: #64767a;
+  font-weight: 500;
+}

@@ -1,0 +1,35 @@
+.img_wrapper {
+  position: relative;
+}
+
+.normal {
+  width: 9rem;
+  height: 9rem;
+}
+
+.small {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+
+.img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  transform: translate(50, 50);
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  margin: auto;
+}
+
+.normal .img {
+  border-radius: 40%;
+  border: 1px solid black;
+}
+
+.small .img {
+  border-radius: 50%;
+  border: 0.4px solid black;
+}

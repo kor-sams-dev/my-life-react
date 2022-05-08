@@ -1,0 +1,31 @@
+.page {
+  width: 100vw;
+  height: 100vh;
+  background-color: beige;
+  display: grid;
+  grid-template:
+    'nav header' 40px
+    'nav main' auto
+    'nav footer' 80px
+    /20rem auto;
+}
+
+.navigation {
+  grid-area: nav;
+  background-color: #dae5d0;
+}
+
+.header {
+  grid-area: header;
+  background-color: #f9ebc8;
+}
+
+.main {
+  grid-area: main;
+  background-color: #fefbe7;
+}
+
+.footer {
+  grid-area: footer;
+  background-color: #a0bcc2;
+}
