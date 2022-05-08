@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-life-react/static/css/main.fff3965f.css",
+    "main.js": "/my-life-react/static/js/main.04a44ea9.js",
+    "index.html": "/my-life-react/index.html",
+    "main.fff3965f.css.map": "/my-life-react/static/css/main.fff3965f.css.map",
+    "main.04a44ea9.js.map": "/my-life-react/static/js/main.04a44ea9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fff3965f.css",
+    "static/js/main.04a44ea9.js"
+  ]
+}
